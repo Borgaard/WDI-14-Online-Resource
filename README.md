@@ -45,4 +45,4 @@ The following is a list of topics you learned throughout the course.
   * [How to write model specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/model-specs)
   * [How to write routing specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/routing-specs)
   * [How to write controller specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/controller-specs)
-
+  * [Ruby for newbies: Testing with Rspec](http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297)
