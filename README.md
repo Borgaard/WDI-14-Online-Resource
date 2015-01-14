@@ -38,6 +38,7 @@ The following is a list of topics you learned throughout the course.
   * [Tealeaf (Comments on Comments)](http://www.gotealeaf.com/blog/understanding-polymorphic-associations-in-rails)
 
 #### TDD with RSpec for Rails
+
 -[How to install RSpec in your Rails app](https://github.com/rspec/rspec-rails)
 - [How to install Shoulda Matchers](https://github.com/thoughtbot/shoulda-matchers)
 - [How to install Factory Girl](https://github.com/thoughtbot/factory_girl_rails)
