@@ -37,7 +37,7 @@ The following is a list of topics you learned throughout the course.
   * [Rails Guide Associations](http://guides.rubyonrails.org/association_basics.html)
   * [Tealeaf (Comments on Comments)](http://www.gotealeaf.com/blog/understanding-polymorphic-associations-in-rails)
 
-#### TDD with RSpec for Rails
+##### TDD with RSpec for Rails
 
   * [How to install RSpec in your Rails app](https://github.com/rspec/rspec-rails)
   * [How to install Shoulda Matchers](https://github.com/thoughtbot/shoulda-matchers)
