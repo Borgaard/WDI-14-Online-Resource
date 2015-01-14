@@ -39,10 +39,10 @@ The following is a list of topics you learned throughout the course.
 
 #### TDD with RSpec for Rails
 
--[How to install RSpec in your Rails app](https://github.com/rspec/rspec-rails)
-- [How to install Shoulda Matchers](https://github.com/thoughtbot/shoulda-matchers)
-- [How to install Factory Girl](https://github.com/thoughtbot/factory_girl_rails)
-- [How to write model specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/model-specs)
-- [How to write routing specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/routing-specs)
-- [How to write controller specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/controller-specs)
+  * [How to install RSpec in your Rails app](https://github.com/rspec/rspec-rails)
+  * [How to install Shoulda Matchers](https://github.com/thoughtbot/shoulda-matchers)
+  * [How to install Factory Girl](https://github.com/thoughtbot/factory_girl_rails)
+  * [How to write model specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/model-specs)
+  * [How to write routing specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/routing-specs)
+  * [How to write controller specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/controller-specs)
 
