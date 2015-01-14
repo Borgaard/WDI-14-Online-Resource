@@ -11,7 +11,7 @@ The following is a list of topics you learned throughout the course.
  * [Auth in Rails](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dawn/auth-in-rails.md)
  * [Devise](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dusk/devise_notes.md)
  * [Nested Resources & Multiple Associations](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_2_tuesday/dawn/nested-resources-and-multiple-associations.md)
- * TDD APP
+ * [TDD APP](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_3_wednesday/tdd-with-rspec-rails.md)
  * Active Job
  * HTTParty & Action Mailer
 
@@ -36,4 +36,12 @@ The following is a list of topics you learned throughout the course.
   * [Model field data types](http://api.rubyonrails.org/classes/ActiveRecord/ConnectionAdapters/TableDefinition.html#method-i-column)
   * [Rails Guide Associations](http://guides.rubyonrails.org/association_basics.html)
   * [Tealeaf (Comments on Comments)](http://www.gotealeaf.com/blog/understanding-polymorphic-associations-in-rails)
+
+#### TDD with RSpec for Rails
+-[How to install RSpec in your Rails app](https://github.com/rspec/rspec-rails)
+- [How to install Shoulda Matchers](https://github.com/thoughtbot/shoulda-matchers)
+- [How to install Factory Girl](https://github.com/thoughtbot/factory_girl_rails)
+- [How to write model specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/model-specs)
+- [How to write routing specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/routing-specs)
+- [How to write controller specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/controller-specs)
 
