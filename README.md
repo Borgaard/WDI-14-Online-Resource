@@ -12,9 +12,9 @@ The following is a list of topics you learned throughout the course.
  * [Devise](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dusk/devise_notes.md)
  * [Nested Resources & Multiple Associations](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_2_tuesday/dawn/nested-resources-and-multiple-associations.md)
  * [TDD APP](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_3_wednesday/tdd-with-rspec-rails.md)
- * Active Job
- * HTTParty & Action Mailer
-
+ * [Active Job](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_4_thursday/dawn/activejob.md)
+ * [Action Mailer](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_4_thursday/dawn/actionmailer.md)
+ * [HTTParty](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_4_thursday/dusk/httparty.md)
 
 ####Further Resources
 
@@ -46,3 +46,18 @@ The following is a list of topics you learned throughout the course.
   * [How to write routing specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/routing-specs)
   * [How to write controller specs](https://relishapp.com/rspec/rspec-rails/v/3-1/docs/controller-specs)
   * [Ruby for newbies: Testing with Rspec](http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297)
+
+##### Active Job
+
+  * [Active Job Basics](http://edgeguides.rubyonrails.org/active_job_basics.html)
+  * [Getting started with Active Job](https://blog.engineyard.com/2014/getting-started-with-active-job)
+
+##### Action Mailer
+  * [Action Mailer Basics](http://guides.rubyonrails.org/action_mailer_basics.html)
+
+##### HTTParty
+  * [johnnunemaker](http://johnnunemaker.com/httparty/)
+  * [TreeHouse HTTParty](http://blog.teamtreehouse.com/its-time-to-httparty)
+
+
+
