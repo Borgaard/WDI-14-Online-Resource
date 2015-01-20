@@ -73,8 +73,9 @@ The following is a list of topics you learned throughout the course.
 
 #### JSON APIs & AJAX
  * [Rails-API Gem Usage](http://railscasts.com/episodes/348-the-rails-api-gem?view=asciicast)
- * [JQuery's Learning AJAX](http://learn.jquery.com/ajax/)
+ * [jQuery's Learning AJAX](http://learn.jquery.com/ajax/)
  * [AJAX Video Tutorial](https://www.youtube.com/watch?v=fEYx8dQr_cQ)
+ * [A Beginner’s Guide To jQuery-Based JSON API Clients](http://www.smashingmagazine.com/2012/02/09/beginners-guide-jquery-based-json-api-clients/)
  * [POSTing with JQuery](https://www.airpair.com/js/jquery-ajax-post-tutorial)
 
 #### File Upload
