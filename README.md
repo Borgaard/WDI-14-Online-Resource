@@ -59,5 +59,20 @@ The following is a list of topics you learned throughout the course.
   * [johnnunemaker](http://johnnunemaker.com/httparty/)
   * [TreeHouse HTTParty](http://blog.teamtreehouse.com/its-time-to-httparty)
 
+###Week 8
+
+####Topics Covered
+
+ * [Rails API & AJAX]
+ * [File Upload w/Paperclip](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-8/_1_monday/dusk/file-upload.md)
+ * [Authorization in Rails]
+ * [Git Collaboration]
+
+
+#### Further Resources
+
+#### File Upload
+ * [Git hub Resource](https://github.com/thoughtbot/paperclip)
+ * [Heroku Resource](https://devcenter.heroku.com/articles/paperclip-s3)
 
 
