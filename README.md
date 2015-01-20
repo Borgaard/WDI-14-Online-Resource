@@ -75,6 +75,7 @@ The following is a list of topics you learned throughout the course.
  * [Rails-API Gem Usage](http://railscasts.com/episodes/348-the-rails-api-gem?view=asciicast)
  * [JQuery's Learning AJAX](http://learn.jquery.com/ajax/)
  * [AJAX Video Tutorial](https://www.youtube.com/watch?v=fEYx8dQr_cQ)
+ * [POSTing with JQuery](https://www.airpair.com/js/jquery-ajax-post-tutorial)
 
 #### File Upload
  * [Git hub Resource](https://github.com/thoughtbot/paperclip)
