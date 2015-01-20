@@ -63,15 +63,18 @@ The following is a list of topics you learned throughout the course.
 
 ####Topics Covered
 
- * [Rails-API Gem Usage](http://railscasts.com/episodes/348-the-rails-api-gem?view=asciicast)
- * [JQuery's Learning AJAX](http://learn.jquery.com/ajax/)
- * [AJAX Video Tutorial](https://www.youtube.com/watch?v=fEYx8dQr_cQ)
+ * [AJAX & JSON APIs](https://github.com/sf-wdi-14/notes/blob/master/lectures%2Fweek-8%2F_1_monday%2Fdawn%2Fajax-and-apis.md)
  * [File Upload w/Paperclip](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-8/_1_monday/dusk/file-upload.md)
  * [Authorization in Rails]
  * [Git Collaboration]
 
 
 #### Further Resources
+
+#### JSON APIs & AJAX
+ * [Rails-API Gem Usage](http://railscasts.com/episodes/348-the-rails-api-gem?view=asciicast)
+ * [JQuery's Learning AJAX](http://learn.jquery.com/ajax/)
+ * [AJAX Video Tutorial](https://www.youtube.com/watch?v=fEYx8dQr_cQ)
 
 #### File Upload
  * [Git hub Resource](https://github.com/thoughtbot/paperclip)
