@@ -61,6 +61,7 @@ The following is a list of topics you learned throughout the course.
 
  * [AJAX & JSON APIs](https://github.com/sf-wdi-14/notes/blob/master/lectures%2Fweek-8%2F_1_monday%2Fdawn%2Fajax-and-apis.md)
  * [File Upload w/Paperclip](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-8/_1_monday/dusk/file-upload.md)
+ * [BDD](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-8/_3_wednesday/dawn/bdd-capybara.md)
  * [Authorization in Rails]
  * [Git Collaboration]
 
@@ -79,6 +80,10 @@ The following is a list of topics you learned throughout the course.
 #### File Upload
  * [Github Resource](https://github.com/thoughtbot/paperclip)
  * [Heroku Resource](https://devcenter.heroku.com/articles/paperclip-s3)
+
+#### BDD
+ * [Dannorth Inroduction to BDD](http://dannorth.net/introducing-bdd/)
+ * [BDD Guide](http://guide.agilealliance.org/guide/bdd.html)
 
 #### Auth in Rails
  * [TDB](#)
