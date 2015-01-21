@@ -77,6 +77,7 @@ The following is a list of topics you learned throughout the course.
  * [AJAX Video Tutorial](https://www.youtube.com/watch?v=fEYx8dQr_cQ)
  * [A Beginner’s Guide To jQuery-Based JSON API Clients](http://www.smashingmagazine.com/2012/02/09/beginners-guide-jquery-based-json-api-clients/)
  * [POSTing with JQuery](https://www.airpair.com/js/jquery-ajax-post-tutorial)
+ * [Secure API Access Tokens](http://railscasts.com/episodes/352-securing-an-api)
  * Advanced: [Using Handlebars to Template a JSON response](http://code.tutsplus.com/tutorials/an-introduction-to-handlebars--net-27761)
 
 #### File Upload
