@@ -86,3 +86,4 @@ The following is a list of topics you learned throughout the course.
 #### Git Collaboration
 * [Git Gor Ages 4 and Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4) (video)
 * [Think Like a Git](http://think-like-a-git.net/) (read along)
+* [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/workflow-walkthrough)
