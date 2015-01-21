@@ -4,9 +4,7 @@
 
 The following is a list of topics you learned throughout the course.
 
-###Week 7
-
-####Topics Covered
+###Week 7 — Topics Covered
 
  * [Auth in Rails](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dawn/auth-in-rails.md)
  * [Devise](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dusk/devise_notes.md)
@@ -16,7 +14,7 @@ The following is a list of topics you learned throughout the course.
  * [Action Mailer](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_4_thursday/dawn/actionmailer.md)
  * [HTTParty](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_4_thursday/dusk/httparty.md)
 
-####Further Resources
+###Week 7 — Resources
 
 ##### Auth in Rails
 
@@ -59,9 +57,7 @@ The following is a list of topics you learned throughout the course.
   * [johnnunemaker](http://johnnunemaker.com/httparty/)
   * [TreeHouse HTTParty](http://blog.teamtreehouse.com/its-time-to-httparty)
 
-###Week 8
-
-####Topics Covered
+###Week 8 — Topics Covered
 
  * [AJAX & JSON APIs](https://github.com/sf-wdi-14/notes/blob/master/lectures%2Fweek-8%2F_1_monday%2Fdawn%2Fajax-and-apis.md)
  * [File Upload w/Paperclip](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-8/_1_monday/dusk/file-upload.md)
@@ -69,7 +65,7 @@ The following is a list of topics you learned throughout the course.
  * [Git Collaboration]
 
 
-#### Further Resources
+###Week 8 — Resources
 
 #### JSON APIs & AJAX
  * [Rails-API Gem Usage](http://railscasts.com/episodes/348-the-rails-api-gem?view=asciicast)
@@ -81,7 +77,12 @@ The following is a list of topics you learned throughout the course.
  * Advanced: [Using Handlebars to Template a JSON response](http://code.tutsplus.com/tutorials/an-introduction-to-handlebars--net-27761)
 
 #### File Upload
- * [Git hub Resource](https://github.com/thoughtbot/paperclip)
+ * [Github Resource](https://github.com/thoughtbot/paperclip)
  * [Heroku Resource](https://devcenter.heroku.com/articles/paperclip-s3)
 
+#### Auth in Rails
+ * [TDB](#)
 
+#### Git Collaboration
+* [Git Gor Ages 4 and Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4) (beginner)
+* [Think Like a Git](http://think-like-a-git.net/) (advanced)
